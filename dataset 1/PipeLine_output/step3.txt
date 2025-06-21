@@ -1,0 +1,10 @@
+🎯 Best AUC: 0.8948414342883605
+⚙️ Best Params:
+learning_rate: 0.01603290932347039
+max_depth: 4
+num_leaves: 30
+feature_fraction: 0.7706008960014699
+bagging_fraction: 0.7039165116665395
+bagging_freq: 1
+min_child_samples: 100
+PS C:\Users\aseel\OneDrive\Desktop\6th semester\למידדת מכונה יישומית\Competetion\dataset 1> ^C

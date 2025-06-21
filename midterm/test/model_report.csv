@@ -1,0 +1,7 @@
+model,best_score,best_params,elapsed
+XGBoost,0.877063715443713,"{'n_estimators': 300, 'max_depth': 7, 'learning_rate': 0.1}",1308.6458356380463
+GradientBoost,0.7797647124553487,"{'n_estimators': 200, 'learning_rate': 0.1}",2675.095437526703
+RandomForest,0.757451719658308,"{'n_estimators': 200, 'max_depth': 10}",580.315623998642
+KNN,0.7381868551502109,{'n_neighbors': 7},14.03171968460083
+Logistic,0.7172332684714829,{'C': np.float64(0.046415888336127795)},374.42431116104126
+AdaBoost,0.5823083143981186,"{'n_estimators': 100, 'learning_rate': 1.0}",671.0135397911072

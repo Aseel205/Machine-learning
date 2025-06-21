@@ -1,0 +1,177 @@
+[CV 2/4] END ...........................C=0.001;, score=0.458 total time=   8.0s
+[CV 1/4] END ...........................C=0.001;, score=0.475 total time=   8.8s
+[CV 2/4] END ............C=0.006812920690579615;, score=0.444 total time=   9.8s
+[CV 3/4] END ...........................C=0.001;, score=0.461 total time=  10.0s[CV 1/4] END ............C=0.006812920690579615;, score=0.463 total time=  10.3s[CV 4/4] END ...........................C=0.001;, score=0.463 total time=  10.0s
+[CV 3/4] END ............C=0.006812920690579615;, score=0.448 total time=  11.3s
+[CV 4/4] END ............C=0.006812920690579615;, score=0.462 total time=  12.4s
+[CV 2/4] END max_depth=None, min_samples_leaf=5;, score=0.535 total time=  12.7s
+[CV 1/4] END max_depth=None, min_samples_leaf=5;, score=0.539 total time=  12.9s
+[CV 3/4] END max_depth=None, min_samples_leaf=5;, score=0.536 total time=  15.0s
+[CV 4/4] END max_depth=None, min_samples_leaf=5;, score=0.526 total time=  15.5s
+[CV 2/4] END max_depth=None, min_samples_leaf=1;, score=0.499 total time=  15.9s
+[CV 1/4] END max_depth=None, min_samples_leaf=1;, score=0.515 total time=  16.4s
+[CV 3/4] END max_depth=None, min_samples_leaf=1;, score=0.502 total time=  19.0s
+[CV 4/4] END max_depth=None, min_samples_leaf=1;, score=0.509 total time=  19.5s
+[CV 1/4] END ...max_depth=5, min_samples_leaf=1;, score=0.478 total time=   9.8s
+[CV 2/4] END ............C=0.046415888336127795;, score=0.434 total time=  17.7s
+[CV 2/4] END ...max_depth=5, min_samples_leaf=1;, score=0.460 total time=   9.8s
+[CV 1/4] END ............C=0.046415888336127795;, score=0.455 total time=  19.2s
+[CV 3/4] END ...max_depth=5, min_samples_leaf=1;, score=0.475 total time=  10.2s
+[CV 1/4] END .............C=0.31622776601683794;, score=0.454 total time=  19.7s
+[CV 4/4] END ...max_depth=5, min_samples_leaf=1;, score=0.468 total time=  10.0s
+[CV 2/4] END .............C=0.31622776601683794;, score=0.432 total time=  20.3s
+[CV 3/4] END ............C=0.046415888336127795;, score=0.444 total time=  20.5s
+[CV 2/4] END max_depth=None, min_samples_leaf=10;, score=0.543 total time=  17.6s
+[CV 4/4] END ............C=0.046415888336127795;, score=0.459 total time=  19.8s
+[CV 1/4] END max_depth=None, min_samples_leaf=10;, score=0.543 total time=  17.8s
+[CV 3/4] END .............C=0.31622776601683794;, score=0.445 total time=  20.4s
+[CV 4/4] END .............C=0.31622776601683794;, score=0.459 total time=  22.0s
+[CV 3/4] END max_depth=None, min_samples_leaf=10;, score=0.545 total time=  18.7s
+[CV 1/4] END ...max_depth=5, min_samples_leaf=5;, score=0.478 total time=   9.2s
+[CV 4/4] END max_depth=None, min_samples_leaf=10;, score=0.558 total time=  19.3s
+[CV 2/4] END ...max_depth=5, min_samples_leaf=5;, score=0.459 total time=   9.3s
+[CV 3/4] END ...max_depth=5, min_samples_leaf=5;, score=0.475 total time=  10.0s
+[CV 4/4] END ...max_depth=5, min_samples_leaf=5;, score=0.468 total time=  10.0s
+[CV 1/4] END ..max_depth=5, min_samples_leaf=10;, score=0.478 total time=   9.5s
+[CV 2/4] END ..max_depth=5, min_samples_leaf=10;, score=0.459 total time=   8.9s
+[CV 3/4] END ..max_depth=5, min_samples_leaf=10;, score=0.475 total time=   9.8s
+[CV 4/4] END ..max_depth=5, min_samples_leaf=10;, score=0.468 total time=   9.3s
+[CV 2/4] END ..............C=2.1544346900318843;, score=0.432 total time=  18.1s
+[CV 1/4] END ..............C=2.1544346900318843;, score=0.455 total time=  19.4s
+[CV 3/4] END ..............C=2.1544346900318843;, score=0.444 total time=  19.1s
+[CV 2/4] END ..............C=14.677992676220706;, score=0.431 total time=  18.3s
+[CV 1/4] END ..............C=14.677992676220706;, score=0.455 total time=  21.6s
+[CV 3/4] END ..............C=14.677992676220706;, score=0.444 total time=  20.6s[CV 4/4] END ..............C=2.1544346900318843;, score=0.458 total time=  22.5s
+[CV 1/4] END ..max_depth=10, min_samples_leaf=1;, score=0.550 total time=  18.8s
+[CV 2/4] END ..max_depth=10, min_samples_leaf=1;, score=0.527 total time=  17.8s
+[CV 4/4] END ..............C=14.677992676220706;, score=0.458 total time=  22.4s
+[CV 1/4] END ..max_depth=10, min_samples_leaf=5;, score=0.553 total time=  17.0s
+[CV 3/4] END ..max_depth=10, min_samples_leaf=1;, score=0.561 total time=  18.9s
+[CV 2/4] END ..max_depth=10, min_samples_leaf=5;, score=0.534 total time=  17.0s
+[CV 4/4] END ..max_depth=10, min_samples_leaf=1;, score=0.538 total time=  18.6s
+[CV 4/4] END ..max_depth=10, min_samples_leaf=5;, score=0.539 total time=  17.5s
+[CV 3/4] END ..max_depth=10, min_samples_leaf=5;, score=0.560 total time=  17.9s
+[CV 2/4] END ...........................C=100.0;, score=0.431 total time=  19.3s
+[CV 1/4] END ...........................C=100.0;, score=0.455 total time=  21.2s
+[CV 3/4] END ...........................C=100.0;, score=0.444 total time=  19.6s
+[CV 1/4] END .max_depth=10, min_samples_leaf=10;, score=0.547 total time=  15.8s
+[CV 4/4] END ...........................C=100.0;, score=0.458 total time=  20.3s
+[CV 2/4] END .max_depth=10, min_samples_leaf=10;, score=0.543 total time=  16.2s
+[CV 4/4] END .max_depth=10, min_samples_leaf=10;, score=0.552 total time=  15.3s
+[CV 3/4] END .max_depth=10, min_samples_leaf=10;, score=0.564 total time=  15.6s
+[CV 1/4] END ..max_depth=20, min_samples_leaf=1;, score=0.511 total time=  20.9s
+[CV 2/4] END ..max_depth=20, min_samples_leaf=1;, score=0.499 total time=  21.0s
+[CV 3/4] END ..max_depth=20, min_samples_leaf=1;, score=0.508 total time=  19.9s
+[CV 4/4] END ..max_depth=20, min_samples_leaf=1;, score=0.507 total time=  21.7s
+[CV 2/4] END ..max_depth=20, min_samples_leaf=5;, score=0.530 total time=  16.0s
+[CV 1/4] END ..max_depth=20, min_samples_leaf=5;, score=0.539 total time=  17.6s
+[CV 4/4] END ..max_depth=20, min_samples_leaf=5;, score=0.526 total time=  16.3s
+[CV 3/4] END ..max_depth=20, min_samples_leaf=5;, score=0.536 total time=  17.8s
+[CV 1/4] END .max_depth=20, min_samples_leaf=10;, score=0.543 total time=  13.9s
+[CV 3/4] END .max_depth=20, min_samples_leaf=10;, score=0.545 total time=  13.5s
+[CV 2/4] END .max_depth=20, min_samples_leaf=10;, score=0.543 total time=  15.4s
+[CV 1/4] END learning_rate=0.05, max_depth=3, n_estimators=150;, score=0.680 total time= 1.6min
+[CV 2/4] END learning_rate=0.05, max_depth=3, n_estimators=150;, score=0.667 total time= 1.6min
+[CV 4/4] END .max_depth=20, min_samples_leaf=10;, score=0.558 total time=  15.2s
+[CV 3/4] END learning_rate=0.05, max_depth=3, n_estimators=150;, score=0.664 total time= 1.7min
+[CV 4/4] END learning_rate=0.05, max_depth=3, n_estimators=150;, score=0.677 total time= 1.7min
+[CV 2/4] END learning_rate=0.5, n_estimators=50;, score=0.385 total time= 1.7min
+[CV 1/4] END learning_rate=0.5, n_estimators=50;, score=0.426 total time= 1.7min
+[CV 3/4] END learning_rate=0.5, n_estimators=50;, score=0.420 total time= 1.8min
+[CV 4/4] END learning_rate=0.5, n_estimators=50;, score=0.408 total time= 1.8min
+[CV 2/4] END ..max_depth=None, n_estimators=100;, score=0.707 total time= 1.8min
+[CV 1/4] END ..max_depth=None, n_estimators=100;, score=0.709 total time= 1.8min
+[CV 3/4] END ..max_depth=None, n_estimators=100;, score=0.713 total time= 1.9min
+[CV 4/4] END ..max_depth=None, n_estimators=100;, score=0.707 total time= 2.0min
+[CV 2/4] END learning_rate=0.05, max_depth=3, n_estimators=300;, score=0.688 total time= 2.8min
+[CV 1/4] END learning_rate=0.05, max_depth=3, n_estimators=300;, score=0.698 total time= 2.8min
+[CV 1/4] END ....max_depth=10, n_estimators=100;, score=0.683 total time= 1.1min
+[CV 2/4] END ....max_depth=10, n_estimators=100;, score=0.687 total time= 1.1min
+[CV 1/4] END learning_rate=0.5, n_estimators=100;, score=0.450 total time= 2.9min
+[CV 3/4] END learning_rate=0.05, max_depth=3, n_estimators=300;, score=0.708 total time= 3.0min
+[CV 4/4] END learning_rate=0.05, max_depth=3, n_estimators=300;, score=0.702 total time= 3.0min
+[CV 1/4] END learning_rate=1.0, n_estimators=50;, score=0.419 total time= 1.3min
+[CV 2/4] END learning_rate=0.5, n_estimators=100;, score=0.403 total time= 2.9min
+[CV 2/4] END learning_rate=1.0, n_estimators=50;, score=0.387 total time= 1.3min
+[CV 3/4] END ....max_depth=10, n_estimators=100;, score=0.689 total time= 1.1min
+[CV 4/4] END ....max_depth=10, n_estimators=100;, score=0.686 total time= 1.1min
+[CV 3/4] END learning_rate=1.0, n_estimators=50;, score=0.417 total time= 1.4min
+[CV 4/4] END learning_rate=1.0, n_estimators=50;, score=0.414 total time= 1.3min
+[CV 4/4] END learning_rate=0.5, n_estimators=100;, score=0.425 total time= 3.1min
+[CV 3/4] END learning_rate=0.5, n_estimators=100;, score=0.432 total time= 3.1min
+[CV 1/4] END ..max_depth=None, n_estimators=200;, score=0.724 total time= 3.2min
+[CV 2/4] END ..max_depth=None, n_estimators=200;, score=0.718 total time= 3.2min
+[CV 3/4] END ..max_depth=None, n_estimators=200;, score=0.729 total time= 3.3min
+[CV 4/4] END ..max_depth=None, n_estimators=200;, score=0.718 total time= 3.3min
+[CV 3/4] END ....max_depth=20, n_estimators=100;, score=0.720 total time= 1.1min
+[CV 4/4] END ....max_depth=20, n_estimators=100;, score=0.720 total time= 1.1min
+[CV 1/4] END ....max_depth=20, n_estimators=100;, score=0.714 total time= 1.4min
+[CV 2/4] END ....max_depth=20, n_estimators=100;, score=0.711 total time= 1.4min
+[CV 3/4] END ....max_depth=10, n_estimators=200;, score=0.700 total time= 1.7min
+[CV 4/4] END ....max_depth=10, n_estimators=200;, score=0.700 total time= 1.7min
+[CV 3/4] END learning_rate=0.05, max_depth=5, n_estimators=150;, score=0.740 total time= 3.2min
+[CV 4/4] END learning_rate=0.05, max_depth=5, n_estimators=150;, score=0.741 total time= 3.3min
+[CV 1/4] END ....max_depth=10, n_estimators=200;, score=0.698 total time= 2.1min
+[CV 2/4] END ....max_depth=10, n_estimators=200;, score=0.695 total time= 2.1min
+[CV 1/4] END learning_rate=0.05, max_depth=5, n_estimators=150;, score=0.746 total time= 3.6min
+[CV 2/4] END learning_rate=0.05, max_depth=5, n_estimators=150;, score=0.733 total time= 3.6min
+[CV 1/4] END learning_rate=1.0, n_estimators=100;, score=0.454 total time= 2.5min
+[CV 3/4] END learning_rate=1.0, n_estimators=100;, score=0.445 total time= 2.4min
+[CV 4/4] END learning_rate=1.0, n_estimators=100;, score=0.442 total time= 2.4min
+[CV 2/4] END learning_rate=1.0, n_estimators=100;, score=0.415 total time= 2.5min
+[CV 1/4] END ....max_depth=20, n_estimators=200;, score=0.718 total time= 2.0min
+[CV 2/4] END ....max_depth=20, n_estimators=200;, score=0.730 total time= 2.0min
+[CV 3/4] END ....max_depth=20, n_estimators=200;, score=0.723 total time= 2.0min
+[CV 4/4] END ....max_depth=20, n_estimators=200;, score=0.725 total time= 2.0min
+[CV 3/4] END learning_rate=0.05, max_depth=5, n_estimators=300;, score=0.748 total time= 4.8min
+[CV 1/4] END learning_rate=0.05, max_depth=5, n_estimators=300;, score=0.754 total time= 5.0min
+[CV 2/4] END learning_rate=0.05, max_depth=5, n_estimators=300;, score=0.741 total time= 5.0min
+[CV 4/4] END learning_rate=0.05, max_depth=5, n_estimators=300;, score=0.750 total time= 4.8min
+[CV 3/4] END learning_rate=0.05, max_depth=7, n_estimators=150;, score=0.777 total time= 4.7min
+[CV 4/4] END learning_rate=0.05, max_depth=7, n_estimators=150;, score=0.756 total time= 4.8min
+[CV 1/4] END learning_rate=0.05, max_depth=7, n_estimators=150;, score=0.766 total time= 5.2min
+[CV 2/4] END learning_rate=0.05, max_depth=7, n_estimators=150;, score=0.756 total time= 5.2min
+[CV 1/4] END learning_rate=0.1, max_depth=3, n_estimators=150;, score=0.701 total time=  34.6s
+[CV 2/4] END learning_rate=0.1, max_depth=3, n_estimators=150;, score=0.691 total time=  34.7s
+[CV 3/4] END learning_rate=0.1, max_depth=3, n_estimators=150;, score=0.707 total time=  39.4s
+[CV 4/4] END learning_rate=0.1, max_depth=3, n_estimators=150;, score=0.700 total time=  40.0s
+[CV 1/4] END learning_rate=0.1, max_depth=3, n_estimators=300;, score=0.706 total time= 1.3min
+[CV 2/4] END learning_rate=0.1, max_depth=3, n_estimators=300;, score=0.705 total time= 1.3min
+[CV 3/4] END learning_rate=0.1, max_depth=3, n_estimators=300;, score=0.721 total time= 1.4min
+[CV 4/4] END learning_rate=0.1, max_depth=3, n_estimators=300;, score=0.709 total time= 1.4min
+[CV 1/4] END learning_rate=0.1, max_depth=5, n_estimators=150;, score=0.752 total time= 1.7min
+[CV 2/4] END learning_rate=0.1, max_depth=5, n_estimators=150;, score=0.744 total time= 1.7min
+[CV 3/4] END learning_rate=0.1, max_depth=5, n_estimators=150;, score=0.753 total time= 1.8min
+[CV 4/4] END learning_rate=0.1, max_depth=5, n_estimators=150;, score=0.745 total time= 1.9min
+[CV 2/4] END learning_rate=0.05, max_depth=7, n_estimators=300;, score=0.770 total time= 7.3min
+[CV 3/4] END learning_rate=0.05, max_depth=7, n_estimators=300;, score=0.784 total time= 7.3min
+[CV 1/4] END learning_rate=0.05, max_depth=7, n_estimators=300;, score=0.782 total time= 8.0min
+[CV 4/4] END learning_rate=0.05, max_depth=7, n_estimators=300;, score=0.770 total time= 8.0min
+[CV 1/4] END learning_rate=0.1, max_depth=5, n_estimators=300;, score=0.769 total time= 3.0min
+[CV 2/4] END learning_rate=0.1, max_depth=5, n_estimators=300;, score=0.765 total time= 3.0min
+[CV 3/4] END learning_rate=0.1, max_depth=5, n_estimators=300;, score=0.763 total time= 3.2min
+[CV 4/4] END learning_rate=0.1, max_depth=5, n_estimators=300;, score=0.764 total time= 3.3min
+[CV 2/4] END learning_rate=0.1, max_depth=7, n_estimators=150;, score=0.772 total time= 3.5min
+[CV 1/4] END learning_rate=0.1, max_depth=7, n_estimators=150;, score=0.777 total time= 3.6min
+[CV 3/4] END learning_rate=0.1, max_depth=7, n_estimators=150;, score=0.781 total time= 3.7min
+[CV 4/4] END learning_rate=0.1, max_depth=7, n_estimators=150;, score=0.773 total time= 3.8min
+[CV 1/4] END learning_rate=0.05, n_estimators=100;, score=0.673 total time=20.0min
+[CV 2/4] END learning_rate=0.05, n_estimators=100;, score=0.669 total time=20.0min
+[CV 4/4] END learning_rate=0.05, n_estimators=100;, score=0.683 total time=20.9min
+[CV 3/4] END learning_rate=0.05, n_estimators=100;, score=0.682 total time=20.9min
+[CV 1/4] END learning_rate=0.1, max_depth=7, n_estimators=300;, score=0.781 total time= 4.6min
+[CV 2/4] END learning_rate=0.1, max_depth=7, n_estimators=300;, score=0.779 total time= 4.4min
+[CV 3/4] END learning_rate=0.1, max_depth=7, n_estimators=300;, score=0.792 total time= 4.8min
+[CV 4/4] END learning_rate=0.1, max_depth=7, n_estimators=300;, score=0.788 total time= 4.7min
+[CV 1/4] END learning_rate=0.1, n_estimators=100;, score=0.684 total time= 8.7min
+[CV 2/4] END learning_rate=0.1, n_estimators=100;, score=0.685 total time= 8.7min
+[CV 1/4] END learning_rate=0.05, n_estimators=200;, score=0.687 total time=28.9min
+[CV 2/4] END learning_rate=0.05, n_estimators=200;, score=0.683 total time=28.9min
+[CV 4/4] END learning_rate=0.1, n_estimators=100;, score=0.701 total time= 9.8min
+[CV 3/4] END learning_rate=0.1, n_estimators=100;, score=0.693 total time= 9.8min
+[CV 4/4] END learning_rate=0.05, n_estimators=200;, score=0.698 total time=30.8min
+[CV 3/4] END learning_rate=0.05, n_estimators=200;, score=0.695 total time=30.9min
+[CV 2/4] END learning_rate=0.1, n_estimators=200;, score=0.689 total time=13.3min
+[CV 1/4] END learning_rate=0.1, n_estimators=200;, score=0.696 total time=13.4min
+[CV 3/4] END learning_rate=0.1, n_estimators=200;, score=0.714 total time=13.4min
+[CV 4/4] END learning_rate=0.1, n_estimators=200;, score=0.710 total time=13.4min

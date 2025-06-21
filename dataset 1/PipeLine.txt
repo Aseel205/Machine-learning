@@ -1,0 +1,6 @@
+🏆 Base models: LGBM, XGBoost, CatBoost, Logistic Regression
+⚙️ Tuning: Optuna for LGBM/XGB, grid for CatBoost, ElasticNetCV
+🧠 Meta-model: LGBM or LogisticRegressionCV
+🔍 Feature prep: BMI, interactions, PowerTransformer, binning
+📊 Evaluation: Stratified 7-10 fold CV with OOF stacking
+🎯 Optimization target: AUC > 0.92 (and reproducibility!)
